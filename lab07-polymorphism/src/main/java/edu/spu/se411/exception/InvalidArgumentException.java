@@ -1,0 +1,8 @@
+package edu.spu.se411.exception;
+
+@SuppressWarnings("serial")
+public class InvalidArgumentException extends Exception {
+    public InvalidArgumentException(String message) {
+        super(message);
+    }
+}

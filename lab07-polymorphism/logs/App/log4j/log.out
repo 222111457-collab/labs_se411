@@ -1,0 +1,7 @@
+2026-09-21 15:28:37,236 INFO [edu.spu.se411.App.main()] edu.spu.se411.App - Application is starting...
+2026-09-21 15:28:37,238 INFO [edu.spu.se411.App.main()] edu.spu.se411.App - Successfully calculated price for Booking ID [FL-101]: $600.0
+2026-09-21 15:28:37,238 INFO [edu.spu.se411.App.main()] edu.spu.se411.App - Successfully calculated price for Booking ID [TR-202]: $225.0
+2026-09-21 15:28:37,238 INFO [edu.spu.se411.App.main()] edu.spu.se411.App - Successfully calculated price for Booking ID [CR-303]: $250.0
+2026-09-21 15:28:37,238 ERROR [edu.spu.se411.App.main()] edu.spu.se411.App - Missing Information Error for Booking ID [FL-102]: Luggage weight is missing for booking ID: FL-102
+2026-09-21 15:28:37,238 ERROR [edu.spu.se411.App.main()] edu.spu.se411.App - Invalid Argument Error for Booking ID [CR-304]: Rental days must be between 1 and 30 days.
+2026-09-21 15:28:37,239 INFO [edu.spu.se411.App.main()] edu.spu.se411.App - Application is stopping...
