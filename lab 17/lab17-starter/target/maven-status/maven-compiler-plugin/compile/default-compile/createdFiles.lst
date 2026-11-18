@@ -1,0 +1,10 @@
+psu\edu\ch06\crud04\model\User.class
+psu\edu\ch06\crud04\model\UserPrincipal.class
+psu\edu\ch06\crud04\service\ProductService.class
+psu\edu\ch06\crud04\repository\UserRepository.class
+psu\edu\ch06\crud04\security\SecurityConfig.class
+psu\edu\ch06\crud04\controller\ProductController.class
+psu\edu\ch06\crud04\service\MyUserDetailsService.class
+psu\edu\ch06\crud04\Crud04Application.class
+psu\edu\ch06\crud04\repository\ProductRepository.class
+psu\edu\ch06\crud04\model\Product.class
